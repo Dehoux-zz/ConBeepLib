@@ -8,3 +8,8 @@ C:\Users\Nick\Dropbox\HogeSchool\C#\ConBeepLib\ConBeepLib\bin\Debug\ConBeepLib.p
 C:\Users\Nick\Dropbox\HogeSchool\C#\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Dropbox\HogeSchool\C#\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.dll
 C:\Users\Nick\Dropbox\HogeSchool\C#\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.pdb
+F:\Users\Nick\Documents\ConBeepLib\ConBeepLib\bin\Debug\ConBeepLib.dll
+F:\Users\Nick\Documents\ConBeepLib\ConBeepLib\bin\Debug\ConBeepLib.pdb
+F:\Users\Nick\Documents\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.csprojResolveAssemblyReference.cache
+F:\Users\Nick\Documents\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.dll
+F:\Users\Nick\Documents\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.pdb

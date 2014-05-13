@@ -89,7 +89,7 @@ namespace ConBeepLib
                     int duration = 1600 / lenght;
                     if (tri)
                     {
-                        duration = (int)(duration / 1.3333);
+                        duration = (int)(duration * 0.3333);
                     }
                     if (dot)
                     {
@@ -97,7 +97,7 @@ namespace ConBeepLib
                         dot = false;
                     }
                     double x = speed / 120.0;
-                    notes.Add(new Note(FrequentionSeeker(note, octave, sign), (int)(duration/x)));
+                    notes.Add(new Note(FrequentionSeeker(note, octave, sign), (int)(duration*x)));
                 }
             }
         }
