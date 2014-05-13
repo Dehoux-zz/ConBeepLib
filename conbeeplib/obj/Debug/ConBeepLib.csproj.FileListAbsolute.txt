@@ -1,0 +1,10 @@
+F:\Gebruikers\Nick\Documenten 2\Hoge School\C#\PersonalProjects\ConBeepLib\ConBeepLib\bin\Debug\ConBeepLib.dll
+F:\Gebruikers\Nick\Documenten 2\Hoge School\C#\PersonalProjects\ConBeepLib\ConBeepLib\bin\Debug\ConBeepLib.pdb
+F:\Gebruikers\Nick\Documenten 2\Hoge School\C#\PersonalProjects\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.csprojResolveAssemblyReference.cache
+F:\Gebruikers\Nick\Documenten 2\Hoge School\C#\PersonalProjects\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.dll
+F:\Gebruikers\Nick\Documenten 2\Hoge School\C#\PersonalProjects\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.pdb
+C:\Users\Nick\Dropbox\HogeSchool\C#\ConBeepLib\ConBeepLib\bin\Debug\ConBeepLib.dll
+C:\Users\Nick\Dropbox\HogeSchool\C#\ConBeepLib\ConBeepLib\bin\Debug\ConBeepLib.pdb
+C:\Users\Nick\Dropbox\HogeSchool\C#\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Dropbox\HogeSchool\C#\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.dll
+C:\Users\Nick\Dropbox\HogeSchool\C#\ConBeepLib\ConBeepLib\obj\Debug\ConBeepLib.pdb
